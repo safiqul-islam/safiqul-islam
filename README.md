@@ -6,7 +6,7 @@
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/safiqul-islam5690291bb/)
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:safiqulislam.green@gmail.com)
 
-![Mahadi's github stats](https://github-readme-stats.vercel.app/api?username=Mahadi-Ahammed&count_private=true&show_icons=true&theme=blueberry&include_all_commits=true)
+![Safiqul's github stats](https://github-readme-stats.vercel.app/api?username=safiqul-islamd&count_private=true&show_icons=true&theme=blueberry&include_all_commits=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=safiqul-islam&layout=compact&show_icons=true&theme=blueberry&include_all_commits=true&langs_count=8)](https://github.com/safiqul-islam/github-readme-stats)
 
 
