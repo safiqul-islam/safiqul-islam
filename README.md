@@ -5,6 +5,12 @@
 - 📫 How to reach me : <br>
 
 
+
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/safiqul-islam5690291bb/)
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:safiqulislam.green@gmail.com)
+
+
+
 ## Languages and Tools  
 <div align="center">  
 <a href="https://laravel.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="25" /></a>  
@@ -25,8 +31,6 @@
 
 
 
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/safiqul-islam5690291bb/)
-[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:safiqulislam.green@gmail.com)
 
 ![Safiqul's github stats](https://github-readme-stats.vercel.app/api?username=safiqul-islam&count_private=true&show_icons=true&theme=blueberry&include_all_commits=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=safiqul-islam&layout=compact&show_icons=true&theme=blueberry&include_all_commits=true&langs_count=8)](https://github.com/safiqul-islam/github-readme-stats)
@@ -39,18 +43,4 @@ You can click the Preview link to take a look at your changes.
 
 
 
-
-
-## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=rishavanand&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishavanand&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>  
-
-<br/>  
 
